@@ -1,13 +1,7 @@
-<details><summary> Intro </summary><div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Dipali A Full-StackWeb and App Developer 👨‍💻</div>  
   
-
-
-</details>  
 
 <br/>  
 
@@ -87,10 +81,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>   
-
-<br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dipalibedarkar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
